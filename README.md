@@ -22,7 +22,7 @@ To use this project, you need to have Python and the required libraries installe
 
 ## Usage
 
-1. Make sure you have the appropriate web driver for your browser.(i use firefox)
+1. Make sure you have the appropriate web driver for your browser.(for this task firefox was used you can also use like chrome but you need to configure.)
 2. Run the notebook:
     ```bash
     jupyter lab/notebook main.ipynb
