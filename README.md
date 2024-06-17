@@ -25,7 +25,7 @@ To use this project, you need to have Python and the required libraries installe
 1. Make sure you have the appropriate web driver for your browser.(i use firefox)
 2. Run the notebook:
     ```bash
-    jupyter notebook main.ipynb
+    jupyter lab/notebook main.ipynb
     ```
 3. Follow the instructions in the notebook to perform web scraping tasks.
 
@@ -39,4 +39,3 @@ To use this project, you need to have Python and the required libraries installe
 - jupyter
 
 
-"# Selenium_Web_Scraping" 
